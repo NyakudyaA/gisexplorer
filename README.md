@@ -15,17 +15,18 @@ deal with GIS data. The key things to be investigated include:
 The tools to be used include the following
 
 Python packages
-* Fiona(https://fiona.readthedocs.io/en/stable/)
+* [Fiona](https://fiona.readthedocs.io/en/stable/)
 * [Geopandas](https://geopandas.org/en/stable/)
 * [pyogrio](https://pypi.org/project/pyogrio/)
 * [rasterio](https://rasterio.readthedocs.io/en/stable/)
 
 GDAL Library
 
-* GDAL
-* OGR 
+* [GDAL](https://gdal.org/en/stable/)
+* [OGR](https://gdal.org/en/stable/programs/ogr2ogr.html)
 
 GIS Packages
 
-* QGIS (GUI and PyQGIS)
-* Grass GIS
+* [QGIS (GUI and PyQGIS)](https://docs.qgis.org/3.40/en/docs/pyqgis_developer_cookbook/index.html)
+* [Grass GIS](https://grass.osgeo.org/)
+* [ArcGIS](https://www.arcgis.com/index.html)
