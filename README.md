@@ -19,6 +19,7 @@ Python packages
 * [Geopandas](https://geopandas.org/en/stable/)
 * [pyogrio](https://pypi.org/project/pyogrio/)
 * [rasterio](https://rasterio.readthedocs.io/en/stable/)
+* [duckdb](https://duckdb.org/)
 
 GDAL Library
 
